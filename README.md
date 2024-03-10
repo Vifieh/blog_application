@@ -1,6 +1,8 @@
 # first_demo
 
 A new Flutter project.
+First Flutter project
+Learned how to roll a dice
 
 ## Getting Started
 
